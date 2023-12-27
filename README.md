@@ -1,2 +1,2 @@
 # haha-github-client
- start studying
+ start studying github-desktop
